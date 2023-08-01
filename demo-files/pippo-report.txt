@@ -1,0 +1,4 @@
+numero di caratteri: 2376
+numero di parole: 409
+carattere con più occorrenze: e
+parola con più occorrenze: elit
